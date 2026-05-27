@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**tasir24/tasir24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Tasir 👋
 
-Here are some ideas to get you started:
+Founder & Director of DRIFZ — a streetwear fashion brand focused on design-driven clothing and creative identity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across:
+
+Fashion & clothing design
+3D garment modeling in CLO 3D
+Fabric sourcing & production
+Web development & UX
+Branding, marketing, and e-commerce
+
+I’m also the Co-Founder & Creative Director of Visionary.eu and Khujo.net / Helpy.au, where I help build platforms, improve user experiences, and turn ideas into real products.
+
+I enjoy creating brands, designing clean digital experiences, solving problems, and building things that people actually use.
