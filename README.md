@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Tasir 👋
+I'm Tasir 👋
 
 Founder & Director of DRIFZ — a streetwear fashion brand focused on design-driven clothing and creative identity.
 
